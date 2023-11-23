@@ -1,4 +1,6 @@
 # linguagem-C
+principio basico
+
 int idade;
 printf("digite sua idade");
 scanf("%d",&idade);
